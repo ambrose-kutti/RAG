@@ -1,17 +1,17 @@
-# RAG
+RAG
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 
-## 📝 Description
+📝 Description
 
 Engage in intelligent conversations with RAG, a user-friendly chatbot powered by Retrieval-Augmented Generation (RAG) techniques. Built with Python and designed for simplicity and effectiveness, this chatbot seamlessly integrates with Streamlit to provide an interactive and informative experience. Experience the future of conversational AI with RAG!
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 - 🐍 Python
 
 
-## 📦 Key Dependencies
+📦 Key Dependencies
 
 ```
 asyncio==4.0.0
@@ -32,7 +32,7 @@ streamlit==1.50.0
 and amny more. . .
 ```
 
-## 📁 Project Structure
+📁 Project Structure
 
 ```
 .
@@ -43,9 +43,9 @@ and amny more. . .
 └── requirements.txt
 ```
 
-## 🛠️ Development Setup
+🛠️ Development Setup
 
-### Python Setup
+ Python Setup
 1. Install Python (v3.8+ recommended)
 2. Create a virtual environment: `python -m venv venv`
 3. Activate the environment:
@@ -54,7 +54,7 @@ and amny more. . .
 4. Install dependencies: `pip install -r requirements.txt`
 
 
-## 👥 Contributing
+👥 Contributing
 
 Contributions are welcome! Here's how you can help:
 
