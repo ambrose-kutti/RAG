@@ -8,7 +8,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from langchain_community.llms import Ollama
 from uuid import uuid4
-import os
+
 
 # Paths
 DATA_PATH = "data"
