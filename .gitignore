@@ -1,0 +1,6 @@
+.env
+.rag_env
+
+
+# database
+chroma_db

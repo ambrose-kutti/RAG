@@ -1,0 +1,9 @@
+& "C:\Users\OASYS\AppData\Local\Programs\Python\Python310\python.exe" --version      
+Python 3.10.9
+
+& "C:\Users\OASYS\AppData\Local\Programs\Python\Python310\python.exe" -m venv "rag_env"     
+
+
+
+pip install langchain_text_splitters 
+langchain_openai langchain_chroma gradio python-dotenv pypdf  
