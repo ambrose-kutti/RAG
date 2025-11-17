@@ -29,7 +29,7 @@ langchain-ollama==1.0.0
 langchain-openai==1.0.2
 langchain-text-splitters==1.0.0
 streamlit==1.50.0
-and amny more. . .
+and many more. . .
 ```
 
 📁 Project Structure
