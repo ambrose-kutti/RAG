@@ -59,7 +59,7 @@ def setup_rag():
     Answer:
     """
     prompt = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
-    llm = Ollama(model="llama3.2")
+    llm = Ollama(model="llama3.2") #You can add your own ollama Models( mistral,qwen..etc)
 
     rag_chain = (
         {"context": retriever | (lambda docs: "\n\n".join([d.page_content for d in docs])), "question": RunnablePassthrough()}
