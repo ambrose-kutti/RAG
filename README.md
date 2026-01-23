@@ -1,17 +1,24 @@
-RAG
+<h1>RAG</h1>
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![Langchain](https://img.shields.io/badge/-Langchain-green?logo=langchain&logoColor=white)
+![Chromadb](https://img.shields.io/badge/-chromadb-yellow?logo=chromadb&logoColor=white)
 
-📝 Description
+----
+
+## 📝 Description
 
 Engage in intelligent conversations with RAG, a user-friendly chatbot powered by Retrieval-Augmented Generation (RAG) techniques. Built with Python and designed for simplicity and effectiveness, this chatbot seamlessly integrates with Streamlit to provide an interactive and informative experience. Experience the future of conversational AI with RAG!
 
-🛠️ Tech Stack
+----
+
+## 🛠️ Tech Stack
 
 - 🐍 Python
 
+----
 
-📦 Key Dependencies
+## 📦 Key Dependencies
 
 ```
 asyncio==4.0.0
@@ -31,8 +38,9 @@ langchain-text-splitters==1.0.0
 streamlit==1.50.0
 and many more. . .
 ```
+----
 
-📁 Project Structure
+## 📁 Project Structure
 
 ```
 .
@@ -42,8 +50,9 @@ and many more. . .
 ├── readme
 └── requirements.txt
 ```
+----
 
-🛠️ Development Setup
+## 🛠️ Development Setup
 
  Python Setup
 1. Install Python (v3.8+ recommended)
@@ -52,9 +61,9 @@ and many more. . .
    - Windows: `venv\Scripts\activate`
    - Unix/MacOS: `source venv/bin/activate`
 4. Install dependencies: `pip install -r requirements.txt`
-
-
-👥 Contributing
+   
+----
+## 👥 Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -64,6 +73,8 @@ Contributions are welcome! Here's how you can help:
 4. **Commit** your changes: `git commit -am 'Add some feature'`
 5. **Push** to your branch: `git push origin feature/your-feature`
 6. **Open** a pull request
+
+----
 
 Please ensure your code follows the project's style guidelines and includes tests where applicable.
 
