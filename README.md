@@ -42,7 +42,7 @@ streamlit==1.50.0
 ## 📁 Project Structure
 
 ```
-.
+-
 ├── chatbot.py
 ├── data
 │   └── 1.pdf (replace your files for testing)
