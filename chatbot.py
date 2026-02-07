@@ -37,16 +37,16 @@ def setup_rag():
     vector_store.add_documents(documents=chunks, ids=uuids)
     retriever = vector_store.as_retriever(search_type="similarity", search_kwargs={"k": 4})
     prompt_template = """
-    You are a helpful AI assistant. Use the following context to answer the user's question.
-    Context:
-    {context}
-    Question: {question}
-    Instructions:
-    - Answer based only on the provided context
-    - If the context doesn't contain relevant information, say "I don't have enough information to answer this question based on the provided documents."
-    - Keep answers concise and to the point. Focus on the key information. not full paragraphs
-    Answer:
-    """
+                        You are a helpful AI assistant. Use the following context to answer the user's question.
+                        Context:
+                        {context}
+                        Question: {question}
+                        Instructions:
+                        - Answer based only on the provided context
+                        - If the context doesn't contain relevant information, say "I don't have enough information to answer this question based on the provided documents."
+                        - Keep answers concise and to the point. Focus on the key information. not full paragraphs
+                        Answer:
+                    """
     prompt = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
     llm = Ollama(model="llama3.2") #You can add your own ollama Models( mistral,qwen..etc)
     rag_chain = (
