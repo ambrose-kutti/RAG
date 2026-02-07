@@ -44,7 +44,7 @@ streamlit==1.50.0
 ```
 -
 ├── chatbot.py
-├── data
+├── data/
 │   └── 1.pdf (replace your files for testing)
 ├── readme
 └── requirements.txt
