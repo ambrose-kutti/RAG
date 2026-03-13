@@ -31,7 +31,7 @@ This project simplifies the process of interacting with custom data, making it i
 
 
 **RAG answering and the Retrival Document preview**
-
+<img width="770" height="325" alt="Screenshot 2026-03-13 152940" src="https://github.com/user-attachments/assets/40a12146-0ac4-44dc-b3c4-3ad3c76328aa" />
 
 
 ## 🛠️ Tech Stack
