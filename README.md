@@ -29,13 +29,13 @@ This project simplifies the process of interacting with custom data, making it i
 
 ## 🖥️ Screenshots
 
-<!-- TODO: Add actual screenshots of the chatbot interface. Include:
-1.  Main chat interface with an initial prompt.
-2.  Screenshot showing PDF upload in progress or completed.
-3.  An example of a question and a context-aware answer.
--->
-![Screenshot of the RAG Chatbot's main interface](https://via.placeholder.com/800x450/007bff/ffffff?text=RAG+Chatbot+Screenshot+1)
-![Screenshot of PDF upload and processing](https://via.placeholder.com/800x450/007bff/ffffff?text=RAG+Chatbot+Screenshot+2)
+**Screenshot of the RAG Chatbot's main interface**
+<img width="774" height="364" alt="Screenshot 2026-03-13 152922" src="https://github.com/user-attachments/assets/03a48938-0bfc-4599-bd2a-29ce358ea403" />
+
+
+**RAG answering and the Retrival Document preview**
+
+
 
 ## 🛠️ Tech Stack
 
