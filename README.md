@@ -6,9 +6,6 @@
 
 **Engage in intelligent conversations with RAG, a user-friendly chatbot powered by Retrieval-Augmented Generation (RAG) techniques.**
 
-<!-- TODO: Add live demo link if available --> 
- <!-- TODO: Add more detailed documentation link if available -->
-
 </div>
 
 ## 📖 Overview
@@ -29,13 +26,13 @@ This project simplifies the process of interacting with custom data, making it i
 
 ## 🖥️ Screenshots
 
-<!-- TODO: Add actual screenshots of the chatbot interface. Include:
-1.  Main chat interface with an initial prompt.
-2.  Screenshot showing PDF upload in progress or completed.
-3.  An example of a question and a context-aware answer.
--->
-![Screenshot of the RAG Chatbot's main interface](https://via.placeholder.com/800x450/007bff/ffffff?text=RAG+Chatbot+Screenshot+1)
-![Screenshot of PDF upload and processing](https://via.placeholder.com/800x450/007bff/ffffff?text=RAG+Chatbot+Screenshot+2)
+**Screenshot of the RAG Chatbot's main interface**
+<img width="774" height="364" alt="Screenshot 2026-03-13 152922" src="https://github.com/user-attachments/assets/03a48938-0bfc-4599-bd2a-29ce358ea403" />
+
+
+**RAG answering and the Retrival Document preview**
+<img width="770" height="325" alt="Screenshot 2026-03-13 152940" src="https://github.com/user-attachments/assets/40a12146-0ac4-44dc-b3c4-3ad3c76328aa" />
+
 
 ## 🛠️ Tech Stack
 
@@ -161,14 +158,6 @@ This project does not currently include automated tests. However, you can manual
 -   Uploading various PDF documents to the `data/` folder.
 -   Asking a diverse set of questions related to the content of the uploaded documents.
 -   Verifying the relevance and accuracy of the chatbot's responses.
-
-## 🚀 Deployment
-
-This Streamlit application can be deployed using various methods:
-
--   **Streamlit Community Cloud**: Easily deploy your app directly from your GitHub repository.
--   **Docker**: Create a Dockerfile to containerize the application for consistent deployment across environments.
--   **Traditional Hosting**: Deploy to a cloud VM (e.g., AWS EC2, GCP Compute Engine, Azure Virtual Machines) by installing dependencies and running the Streamlit command.
 
 ## 🤝 Contributing
 
