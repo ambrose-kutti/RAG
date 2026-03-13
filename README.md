@@ -159,14 +159,6 @@ This project does not currently include automated tests. However, you can manual
 -   Asking a diverse set of questions related to the content of the uploaded documents.
 -   Verifying the relevance and accuracy of the chatbot's responses.
 
-## 🚀 Deployment
-
-This Streamlit application can be deployed using various methods:
-
--   **Streamlit Community Cloud**: Easily deploy your app directly from your GitHub repository.
--   **Docker**: Create a Dockerfile to containerize the application for consistent deployment across environments.
--   **Traditional Hosting**: Deploy to a cloud VM (e.g., AWS EC2, GCP Compute Engine, Azure Virtual Machines) by installing dependencies and running the Streamlit command.
-
 ## 🤝 Contributing
 
 We welcome contributions to enhance the RAG Chatbot! If you'd like to contribute, please follow these steps:
