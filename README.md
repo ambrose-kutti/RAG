@@ -6,9 +6,6 @@
 
 **Engage in intelligent conversations with RAG, a user-friendly chatbot powered by Retrieval-Augmented Generation (RAG) techniques.**
 
-<!-- TODO: Add live demo link if available --> 
- <!-- TODO: Add more detailed documentation link if available -->
-
 </div>
 
 ## 📖 Overview
